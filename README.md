@@ -1,6 +1,6 @@
-### ENTER YOUR NAME: KARTHIKEYAN R
-### ENTER YOUR REGISTER NO.212222240046
-### DATE:03/10/24
+### ENTER YOUR NAME: S Dhanush Praboo
+### ENTER YOUR REGISTER NO.212221230019
+### DATE:04/10/24
 <H3>EX. NO.3</H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
 <h3>Aim:</h3>
